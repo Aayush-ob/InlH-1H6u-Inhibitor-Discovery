@@ -1,0 +1,32 @@
+{
+  "article_doi": "10.1016/j.insi.2025.100153",
+  "scope": "Published narrative and Table 8 numbers versus retained final endpoint-output means; no result is replaced or recalculated.",
+  "systems": [
+    {
+      "system": "control",
+      "published_narrative_kcal_mol": -10.88,
+      "retained_output_kcal_mol": -10.88,
+      "status": "match"
+    },
+    {
+      "system": "hederagenin",
+      "published_narrative_kcal_mol": -17.09,
+      "retained_output_kcal_mol": -17.09,
+      "status": "match"
+    },
+    {
+      "system": "lupeol",
+      "published_narrative_kcal_mol": -9.33,
+      "retained_output_kcal_mol": -10.75,
+      "status": "unresolved source/version discrepancy"
+    },
+    {
+      "system": "maslinic_acid",
+      "published_narrative_kcal_mol": -9.65,
+      "retained_output_kcal_mol": -9.65,
+      "status": "match"
+    }
+  ],
+  "unit_note": "The article narrative and retained outputs state kcal/mol, while Table 8 column headings print kJ/mol. The values are transcribed without unit conversion. Author verification is required.",
+  "action": "Retain the unmodified published PDF and original numeric output; verify the exact Lupeol production/output version and any correction with the article authors."
+}

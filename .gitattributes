@@ -1,0 +1,4 @@
+# Retain exact deposited data bytes and checksums on all platforms.
+* -text
+*.pdf binary
+*.png binary

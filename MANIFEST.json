@@ -1,0 +1,552 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 102,
+    "sha256": "d3a9ab9a6e9849c9eaa8a39e3a27ad46a1aa49dede9c25432334e248b91950b7"
+  },
+  {
+    "path": ".github/workflows/validate.yml",
+    "bytes": 310,
+    "sha256": "ba0070b0e071c9537fa71820adc55f4efc94732109607b732845b3ba4278e211"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 165,
+    "sha256": "6a5111a31b2c46e1cc141082f924ad8c1f8947462a8f2b247c1729b3e1e2229a"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 861,
+    "sha256": "b893a42788ff221bba05b468e2371db8bbdf9676e84750d94e8eba96bfc49132"
+  },
+  {
+    "path": "data/dft/control/frontier_orbital_energies.txt",
+    "bytes": 288,
+    "sha256": "3e507026fc484c72a89f404b29ed7a0405a44fd1bb69131489f73fb7ef0076ed"
+  },
+  {
+    "path": "data/dft/control/homo.cube",
+    "bytes": 923052,
+    "sha256": "66d89a124724790daee175c1672a32815e7af5b00cd07b118be3f24e9b88f452"
+  },
+  {
+    "path": "data/dft/control/ligand.xyz",
+    "bytes": 4013,
+    "sha256": "0e3429c1fba34a4800b10ee12bfb4b3196499e2004ca6a83482e70aadb266bf7"
+  },
+  {
+    "path": "data/dft/control/ligand_dft.inp",
+    "bytes": 148,
+    "sha256": "aee33054d39fde1195f8391b71679bb198fb96be1473ae50d7ba6db3d0405d28"
+  },
+  {
+    "path": "data/dft/control/ligand_dft.property.txt",
+    "bytes": 810577,
+    "sha256": "a0c319905855c9200aaad10b9ebf0587c1a29536ac2c9685d4af4f153b6f4905"
+  },
+  {
+    "path": "data/dft/control/ligand_dft.scfp.esp.cube",
+    "bytes": 923028,
+    "sha256": "8281df1ac5900e70424393f6a5986b3a5230fe832fef44c78e041f912f37332e"
+  },
+  {
+    "path": "data/dft/control/ligand_dft.xyz",
+    "bytes": 6143,
+    "sha256": "c17d1a1b515970b16022bed39f5735cceeddaf5ea72924d5dba26bbb477721ba"
+  },
+  {
+    "path": "data/dft/control/ligand_eldens.cube",
+    "bytes": 923027,
+    "sha256": "5c829a11c036b183e89dd93f3eb5f37b1fba1ab59a38d490c6e6bcc4dd7f7919"
+  },
+  {
+    "path": "data/dft/control/lumo.cube",
+    "bytes": 923052,
+    "sha256": "aadcf7a012155a37412f17c737c6ebb8bfe01b0b1daa589060e70bdac381f4d9"
+  },
+  {
+    "path": "data/dft/hederagenin/frontier_orbital_energies.txt",
+    "bytes": 285,
+    "sha256": "e3b34b24f9400d21cae64d40109f4882341ea27dd25de80c54adf83e4a34271e"
+  },
+  {
+    "path": "data/dft/hederagenin/homo.cube",
+    "bytes": 922997,
+    "sha256": "6e7d0039556f6c904cbe6545178d471416109f6bb90f32cf6b33127ad6ab654d"
+  },
+  {
+    "path": "data/dft/hederagenin/ligand.xyz",
+    "bytes": 3986,
+    "sha256": "be64fdb21c95b285692d269eecbf14744b2ddecb80d58773321b4d0b2209d314"
+  },
+  {
+    "path": "data/dft/hederagenin/ligand_dft.inp",
+    "bytes": 148,
+    "sha256": "aee33054d39fde1195f8391b71679bb198fb96be1473ae50d7ba6db3d0405d28"
+  },
+  {
+    "path": "data/dft/hederagenin/ligand_dft.property.txt",
+    "bytes": 682258,
+    "sha256": "3a4a6648fe3fd96496769a643d2854a47f5e5ce7b858d58cb77f80c47db82729"
+  },
+  {
+    "path": "data/dft/hederagenin/ligand_dft.scfp.esp.cube",
+    "bytes": 922973,
+    "sha256": "efc1071bac7485883a412f1afe648e8722234293efde5b5416e573c535a6cb31"
+  },
+  {
+    "path": "data/dft/hederagenin/ligand_dft.xyz",
+    "bytes": 6067,
+    "sha256": "f5554fc47028e6490b23ed21d97a9550ecd12e105993b2fe7a7d05a3c8a44df6"
+  },
+  {
+    "path": "data/dft/hederagenin/ligand_eldens.cube",
+    "bytes": 922972,
+    "sha256": "c953c6e4b9c36b929f83996d5401f5c69b3325eea19623f3eb2f2e017e34f8b5"
+  },
+  {
+    "path": "data/dft/hederagenin/lumo.cube",
+    "bytes": 922997,
+    "sha256": "20c32f1713f8c597d589cb62ab64a3457171b750de4aaf40f099e3e4c6bb20c9"
+  },
+  {
+    "path": "data/dft/lupeol/frontier_orbital_energies.txt",
+    "bytes": 286,
+    "sha256": "9607d0ef0c8216d5dd9ba68e07fc2470956933cb70dae0dfe0cc16290f9e3327"
+  },
+  {
+    "path": "data/dft/lupeol/homo.cube",
+    "bytes": 921786,
+    "sha256": "221dab8c2b1225987290ea7d6815ae828991a6dcc71b58dde62a75ceb38c0ccf"
+  },
+  {
+    "path": "data/dft/lupeol/ligand.xyz",
+    "bytes": 2885,
+    "sha256": "befd8c37a3836104c80e7ece8c2d56e090cbc25744cdafac8ba4c8417e42f907"
+  },
+  {
+    "path": "data/dft/lupeol/ligand_dft.inp",
+    "bytes": 148,
+    "sha256": "aee33054d39fde1195f8391b71679bb198fb96be1473ae50d7ba6db3d0405d28"
+  },
+  {
+    "path": "data/dft/lupeol/ligand_dft.property.txt",
+    "bytes": 316184,
+    "sha256": "b8349e0f35f6774c0e53d661284c9f2ba9b6d149b5f85741b5cb8f3b8c52bf91"
+  },
+  {
+    "path": "data/dft/lupeol/ligand_dft.scfp.esp.cube",
+    "bytes": 921763,
+    "sha256": "7cbac1f35ab2460135ec56464e8ea3547c35a9dcbbabfd7432334e922c3a10ac"
+  },
+  {
+    "path": "data/dft/lupeol/ligand_dft.xyz",
+    "bytes": 4394,
+    "sha256": "99baef1b2e2893b0e7b55e964d7f2dfe3386d7e39f4a673dbeb205ebee2ec210"
+  },
+  {
+    "path": "data/dft/lupeol/ligand_eldens.cube",
+    "bytes": 921762,
+    "sha256": "b5d25c537a2a2998bbfd48cac9f00161c1b6c21baae09ac3c4e0509f4973a902"
+  },
+  {
+    "path": "data/dft/lupeol/lumo.cube",
+    "bytes": 921786,
+    "sha256": "28a5b7d2d52501ce6e0a538420f782aec7d66f1255dd472ec4554cb5bba5683b"
+  },
+  {
+    "path": "data/dft/maslinic_acid/frontier_orbital_energies.txt",
+    "bytes": 286,
+    "sha256": "00bb5259b3cd7add9460c46a19ab5d2847c23a4234eefe2db71ac2ee12789e85"
+  },
+  {
+    "path": "data/dft/maslinic_acid/homo.cube",
+    "bytes": 923107,
+    "sha256": "3485bc55e5e73a28a81b077264db714507de86ca938ddad79f1e89baa01753f6"
+  },
+  {
+    "path": "data/dft/maslinic_acid/ligand.xyz",
+    "bytes": 4086,
+    "sha256": "66ea9e7741e99191bde19a6a38d878126eacd66d8370a82e47e1c7df19bdecc8"
+  },
+  {
+    "path": "data/dft/maslinic_acid/ligand_dft.inp",
+    "bytes": 148,
+    "sha256": "aee33054d39fde1195f8391b71679bb198fb96be1473ae50d7ba6db3d0405d28"
+  },
+  {
+    "path": "data/dft/maslinic_acid/ligand_dft.property.txt",
+    "bytes": 527734,
+    "sha256": "14b76041fbd9845132d726622290d85294df95648d6b5434d38338ceb8c275e3"
+  },
+  {
+    "path": "data/dft/maslinic_acid/ligand_dft.scfp.esp.cube",
+    "bytes": 923083,
+    "sha256": "cb0d87a858a2e8a0ed77c1a7076f96e66e40d4dba18c495ec6d47d584d99f91c"
+  },
+  {
+    "path": "data/dft/maslinic_acid/ligand_dft.xyz",
+    "bytes": 6219,
+    "sha256": "47c68eaa425b40bc6b353d7c8d0084febaae1cee6989c841f27181f49a4c8764"
+  },
+  {
+    "path": "data/dft/maslinic_acid/ligand_eldens.cube",
+    "bytes": 923082,
+    "sha256": "6f0552f10b4e5163691f66211eaaa4d2e812cf710e5917fb3b9faafcc7f9c8a1"
+  },
+  {
+    "path": "data/dft/maslinic_acid/lumo.cube",
+    "bytes": 923107,
+    "sha256": "69e134964e8143f482512f71b45e7d1fd7b5c08ac3b83423e5e424fc2d5f7b15"
+  },
+  {
+    "path": "data/interactions/plip_results.csv",
+    "bytes": 1168,
+    "sha256": "2bba372c36662bb5bec0236269ead5e0d04e58c3b74cab540a81d5061bd22f7d"
+  },
+  {
+    "path": "data/interactions/protein_ligand_interactions.csv",
+    "bytes": 3111,
+    "sha256": "fc2c16f3b90406763f068b96bc30e1997a86ec0e8dfb341a04d2dd65be79b6b1"
+  },
+  {
+    "path": "data/md/contact_count/control_numcont.xvg",
+    "bytes": 153996,
+    "sha256": "8a397455d9354844e3dfb9a1c282a24c26a8f60dbc1bde1cbd487bd6258b975c"
+  },
+  {
+    "path": "data/md/contact_count/hedragenin_numcont.xvg",
+    "bytes": 150155,
+    "sha256": "aa58d3f9c34b23213b6a2cded7e9b4681cff583543bc2bcbee3c4a9d3c7d0a84"
+  },
+  {
+    "path": "data/md/contact_count/lupeol_numcont.xvg",
+    "bytes": 164429,
+    "sha256": "dffce5d2a48c2736861eb7f093e60d2f8bdc45387cabd9071c02416ccc5d5ada"
+  },
+  {
+    "path": "data/md/contact_count/maslinic_acid_numcont.xvg",
+    "bytes": 164429,
+    "sha256": "dffce5d2a48c2736861eb7f093e60d2f8bdc45387cabd9071c02416ccc5d5ada"
+  },
+  {
+    "path": "data/md/hydrogen_bonds/control_hbonds.agr",
+    "bytes": 122705,
+    "sha256": "7341354d819f73d00c672ab7f75c6fda5c7bd08d2aa0d84169f5fb6739d653fb"
+  },
+  {
+    "path": "data/md/hydrogen_bonds/hedragenin_hbonds.agr",
+    "bytes": 122755,
+    "sha256": "9a74cd206c7eeafeb374bc644abd5b3f239da5ac53015e4c72489891703fa9ca"
+  },
+  {
+    "path": "data/md/hydrogen_bonds/lupeol_hbonds.agr",
+    "bytes": 122748,
+    "sha256": "85f025be656060775f0e5de9b6d25fce10d48741711ee84a90f0462cb101cd59"
+  },
+  {
+    "path": "data/md/hydrogen_bonds/maslinic_acid_hbonds.agr",
+    "bytes": 122761,
+    "sha256": "1fceeeafb384cb98c0ea9488e208efa5b4351694474e14a31ecc47415174ebb3"
+  },
+  {
+    "path": "data/md/minimum_distance/Control_mindist_prot_lig.xvg",
+    "bytes": 224504,
+    "sha256": "d7fdde38abf499ed9992fdcc3b130a7d2110fda1126099e90a82f855c4d6abf6"
+  },
+  {
+    "path": "data/md/minimum_distance/hedragenin_mindist_prot_lig.xvg",
+    "bytes": 222856,
+    "sha256": "ae2c5d5d9096570b1ffd6044115cc6df3d8db63a44df42233bb7739db9e991da"
+  },
+  {
+    "path": "data/md/minimum_distance/lupeol_mindist_prot_lig.xvg",
+    "bytes": 225494,
+    "sha256": "3db6a1a4b86c4cc32b97ac9f5aa164ee137c975a48a960c8d31c5d4a3a351036"
+  },
+  {
+    "path": "data/md/minimum_distance/maslinic_acid_mindist_prot_lig.xvg",
+    "bytes": 225839,
+    "sha256": "2fbe4ead3aced132ccb2a38b717d3e332454c15160b9bfe5d4a60fbf15869f85"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/control_2d_projection.xvg",
+    "bytes": 288205,
+    "sha256": "c9cc26ef3fb3820d3074411f80a37eb0a6a2f75a9d5f97fdad82604f5577205d"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/control_covar.xpm",
+    "bytes": 101648,
+    "sha256": "b56a6c419df60ab7c1c44379cc8b4223eb29cfbfbd3cbe1f8e65688cc4d6c292"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/control_prob.xpm",
+    "bytes": 2890,
+    "sha256": "c7364dee75949235f79a53f8a80ce78d4983fffd9e0c46b1716fe5dfc45e084b"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/hedragenin_2d_projection.xvg",
+    "bytes": 288179,
+    "sha256": "3264f0f3806077dd148526e2fc22f1ff35fbb1f560de1d254b283a83040f8eed"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/hedragenin_covar.xpm",
+    "bytes": 101668,
+    "sha256": "e29e9c3ce4cb0f42afb6cf8ebc5ade419c733752c36a3ca54c9a4f50d60a5912"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/hedragenin_prob.xpm",
+    "bytes": 2894,
+    "sha256": "6a02d06b8672d6e035a4ac1c350acf7694d30fa5f7e3fc04ead68f02d05e24af"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/lupeol_2d_projection.xvg",
+    "bytes": 288175,
+    "sha256": "ee0a1039ba54a82477ff4b66807b6eaca9561f023e3c1f1253cc67d3b629627a"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/lupeol_covar.xpm",
+    "bytes": 101703,
+    "sha256": "bddc7e2ad7446b2f835a240f50da80a5b16c3406bb5a5bad9fdad67c254fdce6"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/lupeol_prob.xpm",
+    "bytes": 2908,
+    "sha256": "ea0ca4aa1ac0c2f877f51d2ecb1626bd955844a63071c3a4f7fd346daa4729de"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/maslinic_acid_2d_projection.xvg",
+    "bytes": 288196,
+    "sha256": "befb7eee418127fc9d509561e5612ad969eb66542d181220f6246ce946a2668a"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/maslinic_acid_covar.xpm",
+    "bytes": 101692,
+    "sha256": "78bfc0d4f73684bae3d1efb44cb0bebadcc541d4e15243d586e57a760471661d"
+  },
+  {
+    "path": "data/md/pca_fel_dccm/maslinic_acid_prob.xpm",
+    "bytes": 2901,
+    "sha256": "d9456d047cde50d3a87c259e5ba625aff8131286edca75647c32c7c2c142f743"
+  },
+  {
+    "path": "data/md/radius_of_gyration/control_radius_of_gyration.xvg",
+    "bytes": 208845,
+    "sha256": "db159907ec9de0344aca3c931894a3ee70d10f24b97b2fa678be41f0150891a9"
+  },
+  {
+    "path": "data/md/radius_of_gyration/hedragenin_radius_of_gyration.xvg",
+    "bytes": 208864,
+    "sha256": "a61929c2bcd4de16855810e1d7b96e700a8211763006e4c5440d80dedbb999b3"
+  },
+  {
+    "path": "data/md/radius_of_gyration/lupeol_radius_of_gyration.xvg",
+    "bytes": 208821,
+    "sha256": "77dd67d118dbc8389e35fa7e5dbdfed058783e4a095ddd028c86723b0e62df88"
+  },
+  {
+    "path": "data/md/radius_of_gyration/maslinic_acid_radius_of_gyration.xvg",
+    "bytes": 208887,
+    "sha256": "cf5244d80eb9c01d0064d840c3c991fce3705e8489493574c1a759e270cbcdeb"
+  },
+  {
+    "path": "data/md/rmsd/Control_rmsd_backbone_corrected.xvg",
+    "bytes": 222018,
+    "sha256": "1a0524c9d9f920f215a9caf12c1c1665a84af7533f28f1fe439d33be370f878a"
+  },
+  {
+    "path": "data/md/rmsd/Control_rmsd_ligand_corrected.xvg",
+    "bytes": 352588,
+    "sha256": "e98b6790b2f4ed44028c78e8574932183ddf243f8a55b7e906ec049343ee2ba3"
+  },
+  {
+    "path": "data/md/rmsd/Hedragenin_rmsd_backbone_corrected.xvg",
+    "bytes": 221747,
+    "sha256": "89db5c5996ae0caaf7dfb0fad6ae28226d5e1cac2deba5ec12ecbb586e3ec9fe"
+  },
+  {
+    "path": "data/md/rmsd/Hedragenin_rmsd_ligand_corrected.xvg",
+    "bytes": 352143,
+    "sha256": "90cd3ec02788e97367ec03cdf785e3b6dc8911fe34ad9a0a3c7b97ae34fbe5bb"
+  },
+  {
+    "path": "data/md/rmsd/Lupeol_rmsd_backbone_corrected.xvg",
+    "bytes": 245396,
+    "sha256": "fe35ae0a5220c69bdff9bbac5e33cc94a509f6ad0256f66f21fb05b86e0cdcaa"
+  },
+  {
+    "path": "data/md/rmsd/Lupeol_rmsd_ligand_corrected.xvg",
+    "bytes": 352154,
+    "sha256": "6cb58d5a8d0ddf1ecfb53cbbfaab9ee04f2069433f7c5e175a9e6f2afb6514aa"
+  },
+  {
+    "path": "data/md/rmsd/Maslinic_Acid_rmsd_backbone_corrected.xvg",
+    "bytes": 221774,
+    "sha256": "4983220ce8caaf8b0cbfe96c41810f2362c87ded493d829214494a1c0fe6f918"
+  },
+  {
+    "path": "data/md/rmsd/Maslinic_Acid_rmsd_ligand_corrected.xvg",
+    "bytes": 352134,
+    "sha256": "a6d2084ab6b65e1a0add0a2c7864f7c41335d9376b5f15ab6eda5a8794b63da9"
+  },
+  {
+    "path": "data/md/rmsf/control_rmsf_per_residue.xvg",
+    "bytes": 13820,
+    "sha256": "b710291b8cdcb9f14c266d84af29a748e44c0f43e66bfb158f37aa2682878d02"
+  },
+  {
+    "path": "data/md/rmsf/hedragenin_rmsf_per_residue.xvg",
+    "bytes": 13829,
+    "sha256": "1253d64ec17e123af2bb1eec71f9b4e96c099e145c8959f8c4809c56a46578e8"
+  },
+  {
+    "path": "data/md/rmsf/lupeol_rmsf_per_residue.xvg",
+    "bytes": 13813,
+    "sha256": "db1ba847489a32c171224cc8acf12348ff23bdbf6efd154d61b1d722bf39000e"
+  },
+  {
+    "path": "data/md/rmsf/maslinic_acid_rmsf_per_residue.xvg",
+    "bytes": 13803,
+    "sha256": "ed75949478df1e883d61660bc7b2ed77f70345f2c5548dcf02711d69f27c7585"
+  },
+  {
+    "path": "data/md/sasa/control_sasa.xvg",
+    "bytes": 196277,
+    "sha256": "c49a913319a8b9274db7a5fedbbb41b236c1c7397beafb4239ce69023b3d86ef"
+  },
+  {
+    "path": "data/md/sasa/hedragenin_sasa.xvg",
+    "bytes": 196373,
+    "sha256": "2824de79ee497af29ef488573cf80b2ff401a191540fa94f3d10e7849408706b"
+  },
+  {
+    "path": "data/md/sasa/lupeol_sasa.xvg",
+    "bytes": 196351,
+    "sha256": "81bb825ffc5bc804c3db73798bbe8e94136337cd209e5ee7fdcb0fcf85acc3d6"
+  },
+  {
+    "path": "data/md/sasa/maslinic_acid_sasa.xvg",
+    "bytes": 196420,
+    "sha256": "ce7af79cd7eb5c36593c671937fd488a9e4db3042772dfe59ebdac7ff5bcf1ff"
+  },
+  {
+    "path": "data/mmgbsa/control/FINAL_RESULTS_MMPBSA.dat",
+    "bytes": 6614,
+    "sha256": "587743ed1c7137bd87ffc7da10837b2087b9b5eaa847b600b3a1d9510d15d7b3"
+  },
+  {
+    "path": "data/mmgbsa/hederagenin/FINAL_RESULTS_MMPBSA.dat",
+    "bytes": 6614,
+    "sha256": "d6340f73292b0c54c43e19e9b2d4bbf07ab5fd6db6cd19c1f0c7bc7cf5361c6b"
+  },
+  {
+    "path": "data/mmgbsa/lupeol/FINAL_RESULTS_MMPBSA.dat",
+    "bytes": 6614,
+    "sha256": "bfb5192c2933fc9ddb87b71778d610e6d7c838a02e59ca60453a5b11bd40d111"
+  },
+  {
+    "path": "data/mmgbsa/maslinic_acid/FINAL_RESULTS_MMPBSA.dat",
+    "bytes": 6614,
+    "sha256": "fb931055abdc196865e3cff4c90a133ca92129fd7acc040e9d65b5d2d791b0f2"
+  },
+  {
+    "path": "data/provenance.json",
+    "bytes": 20146,
+    "sha256": "b39aa3b459b0cde01f344c823a2f104fe70443c0f910c9c6abb2403250521fe5"
+  },
+  {
+    "path": "data/PUBLISHED_SOURCE_COMPARISON.json",
+    "bytes": 1234,
+    "sha256": "3ae74715627e40189fc0420f5983085381678e8f3d580df2f84172c776bc1dde"
+  },
+  {
+    "path": "docs/METHODS_AND_LIMITATIONS.md",
+    "bytes": 2852,
+    "sha256": "59de125d78250a80e71f95b646583f5521e80d09baa8932f4beb4747703a728d"
+  },
+  {
+    "path": "docs/REPRODUCIBILITY.md",
+    "bytes": 1956,
+    "sha256": "b8c43db3223529001549ee375bacff344af7a029c2d19c2fa99a1030637f53bd"
+  },
+  {
+    "path": "figures/control_interaction.png",
+    "bytes": 1190232,
+    "sha256": "25d430ded9f0e68fa45b797e164d260f078e98fddd38d78c6df8aa5e88ae8766"
+  },
+  {
+    "path": "figures/hederagenin_interaction.png",
+    "bytes": 1027654,
+    "sha256": "766de7b8f6c2de5f407e0f7757ce7d4faba07ab7b769f977a49bcee8c20a090d"
+  },
+  {
+    "path": "figures/lupeol_interaction.png",
+    "bytes": 1159328,
+    "sha256": "d8f22ba2e869a8e560fc98a43d2f7e3d382fbc77656fa7b4e64a38f68d28bbeb"
+  },
+  {
+    "path": "figures/maslinic_acid_interaction.png",
+    "bytes": 1316896,
+    "sha256": "50202713f6deed73602bc779b393dd3377a4596614e04b374c5d2a3fcf0a1c65"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1083,
+    "sha256": "4a6fc1a48bc994950d53552ddf557a82fb7ec91a75fa0827a4b03714e30d8581"
+  },
+  {
+    "path": "notebooks/Control_run.ipynb",
+    "bytes": 28663,
+    "sha256": "7bf1cd6fbea8edc38863a0b799535b877d11228417aae0d67d8f60f9da670ad9"
+  },
+  {
+    "path": "notebooks/GROMACS_hed.ipynb",
+    "bytes": 35167,
+    "sha256": "df3bc3dec51f0eab7fec2c00bcc5956a714acda118d638c85e09937e64fff090"
+  },
+  {
+    "path": "notebooks/GROMACS_lup.ipynb",
+    "bytes": 23318,
+    "sha256": "8e0d4ac2f5aa7bd743bbb39dc1b5ae712abcb46788ce9983c31813c6a6feff19"
+  },
+  {
+    "path": "notebooks/GROMACS_mas.ipynb",
+    "bytes": 26660,
+    "sha256": "e7b270d511f68a9a1c6691dc51790ca96c44f07f74cd77552761e5998dca460c"
+  },
+  {
+    "path": "notebooks/GROMACS_runs_analysis.ipynb",
+    "bytes": 8218,
+    "sha256": "b7dfc9bff847f82b09cf8ee5079754dd0bf59b0a8f238f8504ac6fbd277e2658"
+  },
+  {
+    "path": "notebooks/README.md",
+    "bytes": 385,
+    "sha256": "021f4c65a3ff14d97351b19726c0c066d6d7de85a172e6d07d8a72f479d8447e"
+  },
+  {
+    "path": "paper/published_paper.pdf",
+    "bytes": 20978932,
+    "sha256": "b21e67e12e09def9e7a3344a4f7ae0bf7a0f87cc33a590641828961af0660f99"
+  },
+  {
+    "path": "paper/README.md",
+    "bytes": 876,
+    "sha256": "1ced08629646147239912c11ecde40d531afcf5d934d724263591b086475feae"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4444,
+    "sha256": "7d4f4cc5fb97a9734aa281d6cae44ffa5aaaa673eae4a83e0a93564570a0e4f1"
+  },
+  {
+    "path": "scripts/inspect_data.py",
+    "bytes": 3285,
+    "sha256": "abdf00795eddbd36a5d1e8f5ff1e4dd7abb6cfb9e8f951add2b4f2f03de89d59"
+  },
+  {
+    "path": "scripts/validate_repository.py",
+    "bytes": 3627,
+    "sha256": "a38953720aadfedfa34c067a320a46a54493378f14c606a78bb000190c9f9445"
+  }
+]
